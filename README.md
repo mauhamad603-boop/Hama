@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.satfilm.pl/images/news/elewen1-4k-480x270_55fd.png" group-title="SPORT",ELEVEN SPORT 4K
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/282823
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",AVA SPORT
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/285887
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",NRT SPORT
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/258526
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",LD SPORT CHIK
+http://xxtv.me:8080/4c:57:39:21:b8:21/726626662998/358238
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",ASO SPORT
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/265861
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",KURDISTAN SPORT
+http://family4k.co:8080/Meshaal.Dekhil/6472789185/74767
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",ASTERA SPORT
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/89680
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",PLAY SPORT1
+http://metitv.pro:8080/live/illyrian-restaream/Xg29scsdkyQh/15092.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH",|KURD| NRT UHD
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/3847
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="KURDISH",|KURD| NRT 2 UHD
@@ -397,3 +413,24 @@ http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286230
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286231
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ALWAN NETWORK",Alwan Sport 5 HD
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286232
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="ALWAN SPORT",ALWAN SPORT1
+http://1.fatv.vip:80/live/mostafa8198/9571960111/402373.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_2.png" group-title="ALWAN SPORT",ALWAN SPORT2
+http://1.fatv.vip:80/live/mostafa8198/9571960111/402374.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_3.png" group-title="ALWAN SPORT",ALWAN SPORT3
+http://1.fatv.vip:80/live/mostafa8198/9571960111/402375.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_4.png" group-title="ALWAN SPORT",ALWAN SPORT4
+http://1.fatv.vip:80/live/mostafa8198/9571960111/402376.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_5.png" group-title="ALWAN SPORT",ALWAN SPORT5
+http://1.fatv.vip:80/live/mostafa8198/9571960111/402377.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F1",ALWAN F1
+http://family4k.co:8080/live/Meshaal.Dekhil/6472789185/924632.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F1",DAZN F1
+http://metitv.pro:8080/live/illyrian-restaream/Xg29scsdkyQh/15108.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F1",SKY F1
+http://metitv.pro:8080/live/illyrian-restaream/Xg29scsdkyQh/15349.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F1",UFC
+http://metitv.pro:8080/live/illyrian-restaream/Xg29scsdkyQh/9802.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="F1",ALWAN UFC
+http://family4k.co:8080/live/Meshaal.Dekhil/6472789185/924629.ts
+
