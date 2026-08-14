@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", alwan1
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/30.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", alwan2
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/31.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", alwan3
+https://23370wa.xyz:443/live/mo3ad11a11/mo3ada11a11/31.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", bein1
+http://rxftrgeu.fqvpnw.com:80/live/7Q9WR66G/58RGJ36B/953610.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", bein2
+http://rxftrgeu.fqvpnw.com:80/live/7Q9WR66G/58RGJ36B/953611.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", bein3
+http://rxftrgeu.fqvpnw.com:80/live/7Q9WR66G/58RGJ36B/953612.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ISTAR QURAN
+https://live20.bozztv.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="Kurd", K24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RUDAW
+http://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", kurdistan tv
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w427291259_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AVA
+https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AVA SPORT
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/285887
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDSAT NEWS
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", CANNEL 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT 1
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SPEDA HD
+http://line.beemax.cc:80/live/CD786D/28C27D/3850.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SPEDA DRAMA
+http://line.beemax.cc:80/live/CD786D/28C27D/1443656.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", UTV
+http://line.beemax.cc:80/live/CD786D/28C27D/89640.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", U2TV
+http://line.beemax.cc:80/live/CD786D/28C27D/1443631.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", PAYAM
+https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", HORMZYAR HD
+http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RASAN
+http://line.beemax.cc:80/live/CD786D/28C27D/723217.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NISHTIMANI MN
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/258523
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KALAPUR
+http://line.beemax.cc:80/live/CD786D/28C27D/1443595.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", HALABJA TV
+http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ZED TV
+http://line.beemax.cc:80/live/CD786D/28C27D/89636.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ZED PLUS
+http://line.beemax.cc:80/live/CD786D/28C27D/741941.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", DIMEN
+http://line.beemax.cc:80/live/CD786D/28C27D/1443641.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX
+http://line.beemax.cc:80/live/CD786D/28C27D/3867.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX SHOW
+http://line.beemax.cc:80/live/CD786D/28C27D/3866.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX MUSIC
+http://line.beemax.cc:80/live/CD786D/28C27D/67719.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX PAPULA
+http://line.beemax.cc:80/live/CD786D/28C27D/92876.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE HD
+http://line.beemax.cc:80/live/CD786D/28C27D/89653.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE 2
+http://line.beemax.cc:80/live/CD786D/28C27D/89652.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE MOVIES
+http://line.beemax.cc:80/live/CD786D/28C27D/741933.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE BOLLYWOOD
+http://line.beemax.cc:80/live/CD786D/28C27D/741935.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE DRAMA
+http://line.beemax.cc:80/live/CD786D/28C27D/1443623.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE KIDS
+http://line.beemax.cc:80/live/CD786D/28C27D/741932.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE SPORT
+http://line.beemax.cc:80/live/CD786D/28C27D/741934.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/89683.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA SHOW
+http://line.beemax.cc:80/live/CD786D/28C27D/89681.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA MOVIES
+http://line.beemax.cc:80/live/CD786D/28C27D/89682.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA KALTURE
+http://line.beemax.cc:80/live/CD786D/28C27D/1443650.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA DOC
+http://line.beemax.cc:80/live/CD786D/28C27D/741929.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA BABY
+http://line.beemax.cc:80/live/CD786D/28C27D/89684.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA SPORT
+http://line.beemax.cc:80/live/CD786D/28C27D/89680.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ARO FMAILY
+http://line.beemax.cc:80/live/CD786D/28C27D/1443587.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA FAMILY
+http://line.beemax.cc:80/live/CD786D/28C27D/89651.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA MOVES
+http://line.beemax.cc:80/live/CD786D/28C27D/89649.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA KIDS
+http://line.beemax.cc:80/live/CD786D/28C27D/89650.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT KIDS
+http://line.beemax.cc:80/live/CD786D/28C27D/3875.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT 2
+http://line.beemax.cc:80/live/CD786D/28C27D/3846.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT SPORT
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/258526.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG FAMILY
+http://line.beemax.cc:80/live/CD786D/28C27D/89644.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG DOC
+http://line.beemax.cc:80/live/CD786D/28C27D/89645ts.
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG KIDS
+http://line.beemax.cc:80/live/CD786D/28C27D/1443622.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AFARINTV
+http://line.beemax.cc:80/live/CD786D/28C27D/122275.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BAKHCHAY AFARIN
+http://line.beemax.cc:80/live/CD786D/28C27D/741937.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", FIRST
+http://line.beemax.cc:80/live/CD786D/28C27D/1443652.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", JOJO MAMA
+http://line.beemax.cc:80/live/CD786D/28C27D/1443613.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", PELISTANK
+http://line.beemax.cc:80/live/CD786D/28C27D/1443663.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SADA
+http://line.beemax.cc:80/live/CD786D/28C27D/598517.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TASAWF
+http://line.beemax.cc:80/live/CD786D/28C27D/1443637.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KOMAL
+http://line.beemax.cc:80/live/CD786D/28C27D/1443616.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SRUSHT HD
+http://line.beemax.cc:80/live/CD786D/28C27D/771666.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", MIHRAB TV
+http://line.beemax.cc:80/live/CD786D/28C27D/1443619.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASMAN
+http://line.beemax.cc:80/live/CD786D/28C27D/89686.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AMOZHGARY
+http://line.beemax.cc:80/live/CD786D/28C27D/122196.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDISTAN SPORT
+http://asmrasmr.live:8080/live/01639215091/4500949506/1294137.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASO SPORT
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/265861.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SSC 1
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282800.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SSC 2
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282801.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT1
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261623.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT2
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261624.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT3
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261625.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT4
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261626.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT5
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261627.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BEIN SPORT6
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/261628.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT1
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286215.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT2
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286216.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT3
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286217.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT4
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286218.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT5
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286219.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ALWAN SPORT6
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286220.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Blus sport1
+https://ua2.hls.gd/ch2096/mono.m3u8?token=tv4u354.v2_rOJMedO61bjNlXBghodNcjhoeIU0RMxytD4AUDKEIBCT7f4Lb3I0zTZHoTcdCnxTjqi_Fki1t-0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Blus sport2
+https://ua2.hls.gd/ch2097/mono.m3u8?token=tv4u354.v2_w1dPMdgOq3JzKFMH_lzpUS10DJSI0cS0eEo-bEP6LHzCducLE4xKsJH181fpAO_aV3vQomYvwog
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Canal sport1
+https://ua2.hls.gd/ch3933/mono.m3u8?token=tv4u354.v2_d6NRv86EcoU7xgD3D1uCt6QgEanPoI6TzAjPXsFGdrsEOlepB3ohnm-IO2gxsk42wpjUeLSZ2Ls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Canal sport 2
+https://ua2.hls.gd/ch3934/mono.m3u8?token=tv4u354.v2_kkKoX-hZWjMrkqVU1Gsh4Kx7cgWPPgaS1gSDl5I-OT4CUEepIOT7kyXiSm3KCmbWf59wAlns9_Q
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Now sport1
+https://ua2.hls.gd/ch1909/mono.m3u8?token=tv4u354.v2_059UH9fPpI0OLNLt_A1V-tjsvluR6fZHbz1o3v5amX5p8YiVvpL0WvWuExoDnPCjGGAYTnBnNcQ
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Now sport2
+https://ua2.hls.gd/ch1910/mono.m3u8?token=tv4u354.v2_RquDCBHUrfNnK2n6V1TUa8Ma4y4Tv5miHxcizoUjc0zPrUSKmAukuevo_Wn67DuzeXYQXGzdK3U
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Now sport3
+https://ua2.hls.gd/ch2783/mono.m3u8?token=tv4u354.v2_RwGsNrsEk-Y_E7kSTSG-kE8q-TMb4VvjoSMbdP1qkhZRP7vtUOUPxg5FrVOF48qhRlNcVEHcvpQ
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Now sport4
+https://ua2.hls.gd/ch721/mono.m3u8?token=tv4u354.v2_XEkhrByOOIlDmSpRirslWcHZNETJ3o5Ps8PCO2xCCtf0Lrfjm6MWDucidLVvB0rWwLRbEbDphA
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", Now  sport 4k
+https://ua2.hls.gd/ch2742/mono.m3u8?token=tv4u354.v2_1eUiSo-uocT1W3mZZ5QEFJu80tjRF9RXqwAp1l9p0lbVNKDP9IIQDnf3LamN-IIIDip6oJqL9nE
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ELEVEN SPORT 4k
+https://ua2.hls.gd/ch637/mono.m3u8?token=tv4u354.v2_8L8NEpN58HWqu2YZDgOBFRPVpj5awNqt-sR2clQ6zVIgEE5iUvpdD4nr5wYzKrJm_jF3vsXW-g
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TNT SPORT 1
+https://ua2.hls.gd/ch2207/mono.m3u8?token=tv4u354.v2_8KtczlgtYJXxTAY7cGxr9jiKG2tgKFZLc0BiMLXvmFb6E-gZkkCBVyZbDRC0cBvFfBE44VcY4iU
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TNT SPORT 2
+https://ua2.hls.gd/ch2208/mono.m3u8?token=tv4u354.v2_cm5DwsDio9X0lp-LpZC5xAmhotVaWGBbsHXRfTjWYvV0WZcUdlEDHQm02oMnXPmoFPGA009_fKU
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TNT SPORT 3
+https://ua2.hls.gd/ch2209/mono.m3u8?token=tv4u354.v2_AycsJeSlisaP7vP2LVvSGX5Kl4Q3Dms8VGjS05l3Q0ll9LYSxfPoUt5cAhsBDRRqeRk-2i_Ixrc
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TNT SPORT 4
+https://ua2.hls.gd/ch2210/mono.m3u8?token=tv4u354.v2_9V2a_7KJIoabVXgBsZt-CCsE5ny4Qi7eDkNbyD--9ayf5H3C1kJd3Lylw4OWO-Qq98o2SKvEPbA
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", LALIGA SPORT1
+https://ua2.hls.gd/ch2106/mono.m3u8?token=tv4u354.v2__H-3AFu5Mk4di72Ij6_7BA--K50Wg995DiDm9umRY2ilj8KA14Bt44oH906tPMAyFeooyl6nBhY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", LALIGA SPORT2
+https://ua2.hls.gd/ch2107/mono.m3u8?token=tv4u354.v2_PC6cXAgaij-DSn7eD0Vh4bS_dmAmG7kpFGEyDDfA_MnlYz-3x_9FMmaTmVmBnu0zSu_gkrqFzao
+
