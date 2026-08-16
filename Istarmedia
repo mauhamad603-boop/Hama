@@ -305,3 +305,11 @@ https://ua2.hls.gd/ch2106/mono.m3u8?token=tv4u354.v2__H-3AFu5Mk4di72Ij6_7BA--K50
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LALIGA SPORT2
 https://ua2.hls.gd/ch2107/mono.m3u8?token=tv4u354.v2_PC6cXAgaij-DSn7eD0Vh4bS_dmAmG7kpFGEyDDfA_MnlYz-3x_9FMmaTmVmBnu0zSu_gkrqFzao
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT1
+https://ua2.hls.gd/ch1516/mono.m3u8?token=tv4u354.v2_AoNR_NrqUNaUVPWQzBsr_mrwjOklAW5FUf-WHNaEx4jA41xvUfnVF-u0kjNbcohTPj2ebmjEvpE
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT2
+https://ua2.hls.gd/ch2714/mono.m3u8?token=tv4u354.v2_F-gMoNLYla0-WE1dR_paDsVJ0opHr9-DQ7--6rNWnSox4cRaTIzG7O22zcns9hp8tSrATYKSp54
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY PREMIRE LEAGUE
+https://ua2.hls.gd/ch3031/mono.m3u8?token=tv4u354.v2_p6-6UUCuVkt_ai9svfXjXyuLyGGXPhvHkiUjW441N9pbSyTZN4kJv89G_PXvvwLjOJ9HIkNTKa4
