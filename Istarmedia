@@ -248,6 +248,12 @@ http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286219.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT6
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286220.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", DAZN 1
+http://prod.mixarena4k.top:8080/live/MIX0676176217763480/wp5r6gzzc7bd/1354804.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", DAZN 2
+http://prod.mixarena4k.top:8080/live/MIX0676176217763480/wp5r6gzzc7bd/1354807.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport1 4K
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282882.ts
 
