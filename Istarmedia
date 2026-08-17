@@ -248,17 +248,28 @@ http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286219.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT6
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286220.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport1
-https://ua2.hls.gd/ch2096/mono.m3u8?token=tv4u354.v2_rOJMedO61bjNlXBghodNcjhoeIU0RMxytD4AUDKEIBCT7f4Lb3I0zTZHoTcdCnxTjqi_Fki1t-0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport1 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282882.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport2
-https://ua2.hls.gd/ch2097/mono.m3u8?token=tv4u354.v2_w1dPMdgOq3JzKFMH_lzpUS10DJSI0cS0eEo-bEP6LHzCducLE4xKsJH181fpAO_aV3vQomYvwog
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport2 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282883.ts
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport3 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282884.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Blus sport4 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282885.ts
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Canal sport1
 https://ua2.hls.gd/ch3933/mono.m3u8?token=tv4u354.v2_d6NRv86EcoU7xgD3D1uCt6QgEanPoI6TzAjPXsFGdrsEOlepB3ohnm-IO2gxsk42wpjUeLSZ2Ls
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Canal sport 2
 https://ua2.hls.gd/ch3934/mono.m3u8?token=tv4u354.v2_kkKoX-hZWjMrkqVU1Gsh4Kx7cgWPPgaS1gSDl5I-OT4CUEepIOT7kyXiSm3KCmbWf59wAlns9_Q
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Canal foot+
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/289218.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Now sport1
 https://ua2.hls.gd/ch1909/mono.m3u8?token=tv4u354.v2_059UH9fPpI0OLNLt_A1V-tjsvluR6fZHbz1o3v5amX5p8YiVvpL0WvWuExoDnPCjGGAYTnBnNcQ
@@ -273,7 +284,7 @@ https://ua2.hls.gd/ch2783/mono.m3u8?token=tv4u354.v2_RwGsNrsEk-Y_E7kSTSG-kE8q-TM
 https://ua2.hls.gd/ch721/mono.m3u8?token=tv4u354.v2_XEkhrByOOIlDmSpRirslWcHZNETJ3o5Ps8PCO2xCCtf0Lrfjm6MWDucidLVvB0rWwLRbEbDphA
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Now  sport 4k
-https://ua2.hls.gd/ch2742/mono.m3u8?token=tv4u354.v2_1eUiSo-uocT1W3mZZ5QEFJu80tjRF9RXqwAp1l9p0lbVNKDP9IIQDnf3LamN-IIIDip6oJqL9nE
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282841.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ELEVEN SPORT 4k
 https://ua2.hls.gd/ch637/mono.m3u8?token=tv4u354.v2_8L8NEpN58HWqu2YZDgOBFRPVpj5awNqt-sR2clQ6zVIgEE5iUvpdD4nr5wYzKrJm_jF3vsXW-g
@@ -296,11 +307,11 @@ https://ua2.hls.gd/ch2106/mono.m3u8?token=tv4u354.v2__H-3AFu5Mk4di72Ij6_7BA--K50
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LALIGA SPORT2
 https://ua2.hls.gd/ch2107/mono.m3u8?token=tv4u354.v2_PC6cXAgaij-DSn7eD0Vh4bS_dmAmG7kpFGEyDDfA_MnlYz-3x_9FMmaTmVmBnu0zSu_gkrqFzao
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT1
-https://ua2.hls.gd/ch1516/mono.m3u8?token=tv4u354.v2_AoNR_NrqUNaUVPWQzBsr_mrwjOklAW5FUf-WHNaEx4jA41xvUfnVF-u0kjNbcohTPj2ebmjEvpE
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT1 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282848.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT2
-https://ua2.hls.gd/ch2714/mono.m3u8?token=tv4u354.v2_F-gMoNLYla0-WE1dR_paDsVJ0opHr9-DQ7--6rNWnSox4cRaTIzG7O22zcns9hp8tSrATYKSp54
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT2 4K
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282849.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY PREMIRE LEAGUE
 https://ua2.hls.gd/ch3031/mono.m3u8?token=tv4u354.v2_p6-6UUCuVkt_ai9svfXjXyuLyGGXPhvHkiUjW441N9pbSyTZN4kJv89G_PXvvwLjOJ9HIkNTKa4
