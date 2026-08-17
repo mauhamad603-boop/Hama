@@ -287,25 +287,29 @@ https://ua2.hls.gd/ch721/mono.m3u8?token=tv4u354.v2_XEkhrByOOIlDmSpRirslWcHZNETJ
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282841.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ELEVEN SPORT 4k
-https://ua2.hls.gd/ch637/mono.m3u8?token=tv4u354.v2_8L8NEpN58HWqu2YZDgOBFRPVpj5awNqt-sR2clQ6zVIgEE5iUvpdD4nr5wYzKrJm_jF3vsXW-g
+http://core.itsall.pro:80/megapeer/live/PQubhxj8KGGKSLPAKS/282823.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", TNT SPORT 1
-https://ua2.hls.gd/ch2207/mono.m3u8?token=tv4u354.v2_8KtczlgtYJXxTAY7cGxr9jiKG2tgKFZLc0BiMLXvmFb6E-gZkkCBVyZbDRC0cBvFfBE44VcY4iU
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/205999.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", TNT SPORT 2
-https://ua2.hls.gd/ch2208/mono.m3u8?token=tv4u354.v2_cm5DwsDio9X0lp-LpZC5xAmhotVaWGBbsHXRfTjWYvV0WZcUdlEDHQm02oMnXPmoFPGA009_fKU
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/103146.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", TNT SPORT 3
-https://ua2.hls.gd/ch2209/mono.m3u8?token=tv4u354.v2_AycsJeSlisaP7vP2LVvSGX5Kl4Q3Dms8VGjS05l3Q0ll9LYSxfPoUt5cAhsBDRRqeRk-2i_Ixrc
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/265195.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", TNT SPORT 4
-https://ua2.hls.gd/ch2210/mono.m3u8?token=tv4u354.v2_9V2a_7KJIoabVXgBsZt-CCsE5ny4Qi7eDkNbyD--9ayf5H3C1kJd3Lylw4OWO-Qq98o2SKvEPbA
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/250316.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LALIGA SPORT1
-https://ua2.hls.gd/ch2106/mono.m3u8?token=tv4u354.v2__H-3AFu5Mk4di72Ij6_7BA--K50Wg995DiDm9umRY2ilj8KA14Bt44oH906tPMAyFeooyl6nBhY
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/253207.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LALIGA SPORT2
-https://ua2.hls.gd/ch2107/mono.m3u8?token=tv4u354.v2_PC6cXAgaij-DSn7eD0Vh4bS_dmAmG7kpFGEyDDfA_MnlYz-3x_9FMmaTmVmBnu0zSu_gkrqFzao
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/253195.ts
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LALIGA SPORT3
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/253186.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY SPORT1 4K
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282848.ts
@@ -314,4 +318,4 @@ http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282848.ts
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282849.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY PREMIRE LEAGUE
-https://ua2.hls.gd/ch3031/mono.m3u8?token=tv4u354.v2_p6-6UUCuVkt_ai9svfXjXyuLyGGXPhvHkiUjW441N9pbSyTZN4kJv89G_PXvvwLjOJ9HIkNTKa4
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/252420.ts
