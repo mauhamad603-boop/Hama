@@ -8,6 +8,15 @@ http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127768.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein3
 http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127769.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein4
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127770.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein5
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127771.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein6
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127772.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ISTAR QURAN
 https://live20.bozztv.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
 
@@ -245,6 +254,16 @@ http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286218.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT5
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286219.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT1
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/3395.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT2
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/782073.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT3
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/3391.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT4
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/494878.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT5
+http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/494881.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT6
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/286220.ts
 
@@ -325,3 +344,21 @@ http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282849.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SKY PREMIRE LEAGUE
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/252420.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT1
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254607.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT2
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254608.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT3
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254609.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT4
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254610.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT5
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254611.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", HUB SPORT6
+http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/254612.ts
