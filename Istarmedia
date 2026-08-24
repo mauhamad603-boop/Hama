@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein1
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127767.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14259
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein2
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127768.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14258
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein3
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127769.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14257
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein4
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127770.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14256
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein5
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127771.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14255
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein6
-http://umetop.ottcst.org:80/live/MBFYNWYUKK/QPU5NSM4FX/1127772.ts
+http://tvigate.com:2095/alixkadri2/7IjO4wrZ9w/14254
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ISTAR QURAN
 https://live20.bozztv.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
@@ -254,24 +254,25 @@ http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286218
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT5
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286219
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT1
-http://umetop.ottcst.org:80/MBFYNWYUKK/QPU5NSM4FX/3395
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT2
-http://umetop.ottcst.org:80/MBFYNWYUKK/QPU5NSM4FX/782073
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT3
-http://umetop.ottcst.org:80/MBFYNWYUKK/QPU5NSM4FX/3391
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT4
-http://umetop.ottcst.org:80/MBFYNWYUKK/QPU5NSM4FX/494878
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT5
-http://umetop.ottcst.org:80/MBFYNWYUKK/QPU5NSM4FX/494881
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT6
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286220
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT1
+http://myserveriptv.com:2082/worldiptv/4Msg26dsjoF5wKD9yd7/306572
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT2
+http://myserveriptv.com:2082/worldiptv/4Msg26dsjoF5wKD9yd7/306552
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT3
+http://myserveriptv.com:2082/worldiptv/4Msg26dsjoF5wKD9yd7/306554
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT4
+http://myserveriptv.com:2082/worldiptv/4Msg26dsjoF5wKD9yd7/306559
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT5
+http://myserveriptv.com:2082/worldiptv/4Msg26dsjoF5wKD9yd7/306561
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", DAZN 1
-http://s1.dnspass.xyz:80/live/tstoarvc/xl3RI24py5/33280.ts
+http://s1.dnspass.xyz:80/tstoarvc/xl3RI24py5/33280
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", DAZN 2
-http://s1.dnspass.xyz:80/live/tstoarvc/xl3RI24py5/33281.ts
+http://s1.dnspass.xyz:80/tstoarvc/xl3RI24py5/33281
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", Canal sport1
