@@ -35,6 +35,9 @@ https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", AVA SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", AVA SPORT F
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:61:CF:58&stream=1667734&extension=ts&play_token=ooSBP073vR
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
@@ -164,6 +167,9 @@ http://line.beemax.cc:80/live/CD786D/28C27D/3846.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", NRT SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/258526.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", NRT SPORT F
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:61:CF:58&stream=1667738&extension=ts&play_token=gjcDRL7mqW
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG FAMILY
 http://line.beemax.cc:80/live/CD786D/28C27D/89644.m3u8
 
@@ -212,8 +218,19 @@ http://line.beemax.cc:80/live/CD786D/28C27D/122196.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", KURDISTAN SPORT
 http://asmrasmr.live:8080/live/01639215091/4500949506/1294137.m3u8
 
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", KURDISTAN SPORT F
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:61:CF:58&stream=1667736&extension=ts&play_token=pSKTFdrdd5
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ASO SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/265861.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ASO SPORT F
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:61:CF:58&stream=1667733&extension=ts&play_token=Zd15XsXnpY
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SIMA SPORT 
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:61:CF:58&stream=1667740&extension=ts&play_token=1ApfThzJmU
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SSC 1
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282800.m3u8
