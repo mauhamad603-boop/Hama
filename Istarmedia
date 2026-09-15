@@ -33,7 +33,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w42729125
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", AVA SPORT
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/285887.m3u8
+http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/285887
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", AVA SPORT F
 http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667734&extension=ts
