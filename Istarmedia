@@ -1,21 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein1
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=105102&extension=ts
+https://ua2.hls.gd/ch227/mono.m3u8?token=tv4u354.v2_mi6O_JylPAQ1mDe-B6Jp9-aKKOE64mrwCtNrGJleqJEACv8uCOo73a4cFKViWdC1aCLQEB_idA
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein2
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=45707&extension=ts
+https://ua2.hls.gd/ch228/mono.m3u8?token=tv4u354.v2_M9xckYDN749KcjPlieq052OEqlXlqaQnYttl-rlXl8UpNBAH2-e95E4mAehIAFZQZ558HWjQEg
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein3
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=10081&extension=ts
+https://ua2.hls.gd/ch229/mono.m3u8?token=tv4u354.v2_UvV05XmMrjCiYUP5Cuao3XWmFjatGpv3Xt3iOLZ-qVD36wWDmd2kzQWHLpXKs6LD9Y_4TSrLFg
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein4
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=22391&extension=ts
+https://ua2.hls.gd/ch230/mono.m3u8?token=tv4u354.v2_XICLSG_p9fiZ2onNa1tG3Pd0iGjFyLORduBTb85cIyHTrmICglWzXoxjEZwJEFHyB3AAtgXB2w
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein5
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=10079&extension=ts
+https://ua2.hls.gd/ch231/mono.m3u8?token=tv4u354.v2_DP4zmPplYs2N9a_Y4525BUO8BGSJHWylYGXfI7zuWPJhUoQLJQ7HtxAE_x_sMoDXqg0T_1Qjjw
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein6
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=10078&extension=ts
+https://ua2.hls.gd/ch232/mono.m3u8?token=tv4u354.v2_nD59Hwaa3IEdlFNj2ZtxRBbTsV-axMRETal9L8aIctT099YhRz13O9tIUbo0PAAxAReO-ewyzA
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 1
+http://195.128.27.253:2095/4116039046/6281134156/2098818
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 2
+http://195.128.27.253:2095/4116039046/6281134156/2098820
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 3
+http://195.128.27.253:2095/4116039046/6281134156/2098822
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 4
+http://195.128.27.253:2095/4116039046/6281134156/2098824
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 5
+http://195.128.27.253:2095/4116039046/6281134156/2098826
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 6
+http://195.128.27.253:2095/4116039046/6281134156/2098828
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ISTAR QURAN
 https://live20.bozztv.com/giatv/giatv-istar_halabja88/istar_halabja88/chunks.m3u8
@@ -233,28 +252,28 @@ http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667740&
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SSC 1
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282800.m3u8
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112579
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SSC 2
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/282801.m3u8
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112382
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT1
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112484&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112484
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT2
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112423&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112423
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT3
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112292&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112292
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT4
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112471&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112471
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT5
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112323&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112323
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", BEIN SPORT6
-http://qwertytv.net/play/live.php?mac=00%3A1A%3A79%3AB5%3A0A%3AB7&stream=112148&extension=ts
+http://qwertytv.net:2103/Bajda-soufiane/a4cWndESbD/112148
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT1
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286215
@@ -274,16 +293,6 @@ http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286219
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN SPORT6
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/286220
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT1
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/306572.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT2
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/306552.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT3
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/306554.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT4
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/306559.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SPORT SPORT5
-http://myserveriptv.com:2082/live/worldiptv/4Msg26dsjoF5wKD9yd7/306561.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", DAZN 1
 http://s1.dnspass.xyz:80/live/tstoarvc/xl3RI24py5/33280.m3u8
