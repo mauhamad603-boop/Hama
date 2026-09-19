@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein1
-https://ua2.hls.gd/ch227/mono.m3u8?token=tv4u354.v2_mi6O_JylPAQ1mDe-B6Jp9-aKKOE64mrwCtNrGJleqJEACv8uCOo73a4cFKViWdC1aCLQEB_idA
+http://tv.host-pro2.com:8789/87268/6824/78378
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein2
-https://ua2.hls.gd/ch228/mono.m3u8?token=tv4u354.v2_M9xckYDN749KcjPlieq052OEqlXlqaQnYttl-rlXl8UpNBAH2-e95E4mAehIAFZQZ558HWjQEg
+http://tv.host-pro2.com:8789/87268/6824/78379
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein3
-https://ua2.hls.gd/ch229/mono.m3u8?token=tv4u354.v2_UvV05XmMrjCiYUP5Cuao3XWmFjatGpv3Xt3iOLZ-qVD36wWDmd2kzQWHLpXKs6LD9Y_4TSrLFg
+http://tv.host-pro2.com:8789/87268/6824/89342
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein4
-https://ua2.hls.gd/ch230/mono.m3u8?token=tv4u354.v2_XICLSG_p9fiZ2onNa1tG3Pd0iGjFyLORduBTb85cIyHTrmICglWzXoxjEZwJEFHyB3AAtgXB2w
+http://tv.host-pro2.com:8789/87268/6824/78381
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein5
-https://ua2.hls.gd/ch231/mono.m3u8?token=tv4u354.v2_DP4zmPplYs2N9a_Y4525BUO8BGSJHWylYGXfI7zuWPJhUoQLJQ7HtxAE_x_sMoDXqg0T_1Qjjw
+http://tv.host-pro2.com:8789/87268/6824/78382
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", bein6
-https://ua2.hls.gd/ch232/mono.m3u8?token=tv4u354.v2_nD59Hwaa3IEdlFNj2ZtxRBbTsV-axMRETal9L8aIctT099YhRz13O9tIUbo0PAAxAReO-ewyzA
+http://tv.host-pro2.com:8789/87268/6824/78383
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN 1
@@ -55,7 +55,7 @@ https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 http://core.itsall.pro:80/megapeer/PQubhxj8KGGKSLPAKS/285887
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", AVA SPORT F
-http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667734&extension=ts
+http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667734
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDSAT
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
@@ -187,7 +187,7 @@ http://line.beemax.cc:80/live/CD786D/28C27D/3846.m3u8
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/258526.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", NRT SPORT F
-http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667738&extension=ts
+http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667738
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG FAMILY
 http://line.beemax.cc:80/live/CD786D/28C27D/89644.m3u8
@@ -235,20 +235,22 @@ http://line.beemax.cc:80/live/CD786D/28C27D/89686.m3u8
 http://line.beemax.cc:80/live/CD786D/28C27D/122196.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", KURDISTAN SPORT
-http://asmrasmr.live:8080/live/01639215091/4500949506/1294137.m3u8
+http://xxtv.me:8080/70:09:71:0b:f7:8e/4589654677/358219
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", KURDISTAN SPORT F
-http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667736&extension=ts
+http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667736
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ASO SPORT
 http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/265861.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ASO SPORT F
-http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667733&extension=ts
+http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667733
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SIMA SPORT 
-http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:1D:9D:F2&stream=1667740&extension=ts
+http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667740
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LD SPORT CHKE
+http://xxtv.me:8080/70:09:71:0b:f7:8e/4589654677/358238
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", SSC 1
