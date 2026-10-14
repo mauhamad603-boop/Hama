@@ -70,16 +70,16 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SPEDA HD
-http://line.beemax.cc:80/live/CD786D/28C27D/3850.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/3850.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SPEDA DRAMA
-http://line.beemax.cc:80/live/CD786D/28C27D/1443656.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443656.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", UTV
-http://line.beemax.cc:80/live/CD786D/28C27D/89640.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89640.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", U2TV
-http://line.beemax.cc:80/live/CD786D/28C27D/1443631.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443631.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", PAYAM
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
@@ -91,97 +91,91 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 http://avrstream.com:1935/live/HormzyarHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RASAN
-http://line.beemax.cc:80/live/CD786D/28C27D/723217.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NISHTIMANI MN
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/258523.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/723217.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KALAPUR
-http://line.beemax.cc:80/live/CD786D/28C27D/1443595.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443595.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", HALABJA TV
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ZED TV
-http://line.beemax.cc:80/live/CD786D/28C27D/89636.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89636.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ZED PLUS
-http://line.beemax.cc:80/live/CD786D/28C27D/741941.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741941.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", DIMEN
-http://line.beemax.cc:80/live/CD786D/28C27D/1443641.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443641.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX
-http://line.beemax.cc:80/live/CD786D/28C27D/3867.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/3867.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX SHOW
-http://line.beemax.cc:80/live/CD786D/28C27D/3866.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/3866.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX MUSIC
-http://line.beemax.cc:80/live/CD786D/28C27D/67719.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/67719.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KURDMAX PAPULA
-http://line.beemax.cc:80/live/CD786D/28C27D/92876.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/92876.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE HD
-http://line.beemax.cc:80/live/CD786D/28C27D/89653.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89653.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE 2
-http://line.beemax.cc:80/live/CD786D/28C27D/89652.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89652.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE MOVIES
-http://line.beemax.cc:80/live/CD786D/28C27D/741933.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741933.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE BOLLYWOOD
-http://line.beemax.cc:80/live/CD786D/28C27D/741935.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741935.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE DRAMA
-http://line.beemax.cc:80/live/CD786D/28C27D/1443623.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443623.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NEWLINE KIDS
-http://line.beemax.cc:80/live/CD786D/28C27D/741932.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741932.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", NEWLINE SPORT
-http://line.beemax.cc:80/live/CD786D/28C27D/741934.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA
-http://core.itsall.pro:80/live/megapeer/PQubhxj8KGGKSLPAKS/89683.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741934.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA SHOW
-http://line.beemax.cc:80/live/CD786D/28C27D/89681.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89681.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA MOVIES
-http://line.beemax.cc:80/live/CD786D/28C27D/89682.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89682.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA KALTURE
-http://line.beemax.cc:80/live/CD786D/28C27D/1443650.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443650.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA DOC
-http://line.beemax.cc:80/live/CD786D/28C27D/741929.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741929.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASTERA BABY
-http://line.beemax.cc:80/live/CD786D/28C27D/89684.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89684.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ASTERA SPORT
-http://line.beemax.cc:80/live/CD786D/28C27D/89680.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89680.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ARO FMAILY
-http://line.beemax.cc:80/live/CD786D/28C27D/1443587.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443587.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA FAMILY
-http://line.beemax.cc:80/live/CD786D/28C27D/89651.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89651.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA MOVES
-http://line.beemax.cc:80/live/CD786D/28C27D/89649.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89649.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NIGA KIDS
-http://line.beemax.cc:80/live/CD786D/28C27D/89650.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89650.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT KIDS
-http://line.beemax.cc:80/live/CD786D/28C27D/3875.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/3875.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", NRT 2
-http://line.beemax.cc:80/live/CD786D/28C27D/3846.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/3846.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", NRT SPORT
 http://mirag.xyz:80/a.edris145/p310100160/898345
@@ -190,49 +184,49 @@ http://mirag.xyz:80/a.edris145/p310100160/898345
 http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667738
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG FAMILY
-http://line.beemax.cc:80/live/CD786D/28C27D/89644.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89644.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG DOC
-http://line.beemax.cc:80/live/CD786D/28C27D/89645.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89645.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", RENG KIDS
-http://line.beemax.cc:80/live/CD786D/28C27D/1443622.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443622.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AFARINTV
-http://line.beemax.cc:80/live/CD786D/28C27D/122275.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/122275.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", BAKHCHAY AFARIN
-http://line.beemax.cc:80/live/CD786D/28C27D/741937.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/741937.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", FIRST
-http://line.beemax.cc:80/live/CD786D/28C27D/1443652.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443652.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", JOJO MAMA
-http://line.beemax.cc:80/live/CD786D/28C27D/1443613.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443613.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", PELISTANK
-http://line.beemax.cc:80/live/CD786D/28C27D/1443663.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443663.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SADA
-http://line.beemax.cc:80/live/CD786D/28C27D/598517.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/598517.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", TASAWF
-http://line.beemax.cc:80/live/CD786D/28C27D/1443637.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443637.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", KOMAL
-http://line.beemax.cc:80/live/CD786D/28C27D/1443616.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443616.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", SRUSHT HD
-http://line.beemax.cc:80/live/CD786D/28C27D/771666.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/771666.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", MIHRAB TV
-http://line.beemax.cc:80/live/CD786D/28C27D/1443619.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/1443619.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", ASMAN
-http://line.beemax.cc:80/live/CD786D/28C27D/89686.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/89686.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurd", AMOZHGARY
-http://line.beemax.cc:80/live/CD786D/28C27D/122196.m3u8
+http://line.beemax.cc:80/live/D768C3/5DDF54/122196.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", KURDISTAN SPORT
 http://mirag.xyz:80/a.edris145/p310100160/898348
@@ -252,13 +246,12 @@ http://line.tivi-ott.net:80/Y4MS78/MN9AF5/1667740
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", LD SPORT CHKE
 http://mirag.xyz:80/a.edris145/p310100160/898354
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", UFC 
-http://line.beemax.cc:80/CD786D/28C27D/1829524
+http://line.beemax.cc:80/live/D768C3/5DDF54/1829524
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", ALWAN F1
-http://line.beemax.cc:80/CD786D/28C27D/1829525
+http://line.beemax.cc:80/live/D768C3/5DDF54/1829525
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT", F1
-http://line.beemax.cc:80/CD786D/28C27D/101051
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="SPORT",test
-http://if6aaaea69926003m.a8.ip1-st74-vcvcvcvcvccvz.me/live/play/U0dWWWJHWTNiQ3RqY2toWWRVTnZja0YyY2xObmFqZEtRbTAzYW14NFZtcG1lVTEzTkdOR1pYZFFWVDA9/1310855
+http://line.beemax.cc:80/live/D768C3/5DDF54/101051
+
 
 
 
